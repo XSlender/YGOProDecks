@@ -25,8 +25,8 @@ Cons:
 *   The power of dragons could be turned against you, with a mighty borrelsword dragon, or a simple Skydive Scorcher.
 *   You will sometimes find yourself pushed to defensive stance, even with a badass lv8 dragon, because they are your main assets and you don't want them to be snared or removed from play. The best example is when you have only an Alternative on the field, but you need to protect it to keep the pressure on the opponent. It could be nerve intensive.
 
-**Price :** 5/10 *between 300 and 400ish euros, depending on the cards rarity.*
-**Easy to play :** 8/10 *a beginner may train a little but a casual player could learn the deck in hours.*
+**Price :** 5/10 *between 300 and 400ish euros, depending on the cards rarity.*<br />
+**Easy to play :** 8/10 *a beginner may train a little but a casual player could learn the deck in hours.*<br />
 **Holds against meta :** 5/10 *It will rely on how many ash you take, and how strong your initial draw is.*
 
 ### Galaxy-eyes photon *(GALAXY-EYES FUCKER)*
@@ -48,8 +48,8 @@ Cons :
 *   You have to learn all the galaxy-photon combos to push the deck further.
 *   You will have to sacrifice some combo card to inject some meta cards like Ash in x3.
 
-**Price :** 7/10 *between 200 and 400ish euros, depending on the cards rarity.*
-**Easy to play :** 6/10 *you may have to learn the basic galaxy/photon combo in order th run the deck.*
+**Price :** 7/10 *between 200 and 400ish euros, depending on the cards rarity.*<br />
+**Easy to play :** 6/10 *you may have to learn the basic galaxy/photon combo in order th run the deck.*<br />
 **Holds against meta :** 7/10 *It will rely on how many ash you take, and how strong your initial draw is.*
 
 ## Anti-meta/troll/test decks
